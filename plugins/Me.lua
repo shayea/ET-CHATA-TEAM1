@@ -20,7 +20,7 @@ local function run(msg, matches)
       return "<i>کمک مدیر</i>"
     else
     send_document(get_receiver(msg), "./man/mmber.webp", ok_cb, false)
-      return "<i>چس ممبر</i>"
+      return "<i>ممبر معمولی</i>"
     end
   end
 end
