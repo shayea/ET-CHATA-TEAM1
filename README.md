@@ -1,9 +1,9 @@
-# CerNerOld
+# ET-CHATA TEAM
 Old TG
 
-[mr.amirbagheri](https://telegram.me/mrcliapi)
+[hosein mohseni](https://telegram.me/im_takro)
 
-[channel](https://telegram.me/CerNerCH)
+[channel](https://telegram.me/sezar_hack)
 
 [install](#install)
 
@@ -17,7 +17,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```
 
 ```sh
-git clone https://github.com/amir-cli/CerNerOld
+git clone https://github.com/shayea/ET-CHATA-TEAM1
 cd CerNerOld 
 chmod +x cernercli.sh
 ./cernercli.sh install
